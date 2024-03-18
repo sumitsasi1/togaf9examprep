@@ -2,9 +2,9 @@
 
 🌟 Attention TOGAF exam aspirants! 🌟
 
-I've recently cleared the TOGAF 9 combined exam and wanted to share my prep materials. 
+I would like to share my prep material for TOGAF 9 combined exam. 
 
-I've compiled a self-study pack of books with two practice exams, valued at nearly $100. 
+Consists of self-study pack of books with two practice exams.
 
 Additionally, I highly recommend taking an online course from reputable providers like SimpliLearn/TOPD Learning/Others. 
 Within the course fees they provide exam vouchers, valid for a year. Some even offer a retake option in case you need it.
